@@ -52,4 +52,7 @@ yarn-debug.log*
 /spec/examples.txt
 
 # Vim Swap File
-.swp
+*.swp
+test.rb
+.vscode/
+
